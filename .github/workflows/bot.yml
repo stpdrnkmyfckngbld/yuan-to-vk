@@ -1,4 +1,4 @@
-name: Telegram Yuan Rate Bot
+name: Yuan To VK Script
 
 on:
   schedule:
